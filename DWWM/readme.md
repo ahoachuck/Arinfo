@@ -1,4 +1,4 @@
-# Développeur Wet et Web Mobile
+# Développeur Web et Web Mobile
 Répertoire pour le dépôt des TPs de la formation Développeur web et web mobile.
 
 ## Liste des TPs

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/styles.css">
+
+    <title>Contactez-nous</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="accueil.html">Accueil</a></li>
+                <li><a href="le-perigord.html">Le Perigord</a></li>
+                <li><a href="notre-gite.html">Notre Gîte</a></li>
+                <li><a href="nouscontacter.html">Nous Contacter</a></li>
+                <img src="assets/images/uwu.png" alt="EG5">
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Contactez-nous</h1>
+        
+        <h2>Petite vidéo de présentation ^^</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/sxPLCAjDHnE?si=ZxHrF6cheHYPkcAG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        <h2>Coordonnées de la ferme</h2>
+        <ul>
+            <!-- Coordonnées -->
+            <li><p>Téléphone: 01 02 03 04 05 06</p></li>
+            <li><p>Adresse: 58 Bd Bertran de Born, 24000 Périgueux</p></li>
+            <li><p>E-Mail: ferme@ferme.ferme</p></li>
+        </ul>
+
+        <h2>Horaires d'ouverture</h2>
+        <table border="1px">
+            <tr>
+                <th colspan="7">Tableau d'horaires d'ouverture</td>
+            </tr>
+            <tr>
+                <th>Lundi</th>
+                <th>Mardi</th>
+                <th>Mercredi</th>
+                <th>Jeudi</th>
+                <th>Vendredi</th>
+                <th>Samedi</th>
+                <th>Dimanche</th>
+            </tr>
+            <tr>
+                <td>10h00 - 12h30</td> <!-- Lundi matin -->
+                <td>9h00 - 12h30</td> <!-- Mardi matin -->
+                <td>9h00 - 12h30</td> <!-- Mercredi matin -->
+                <td>9h00 - 12h30</td> <!-- Jeudi matin -->
+                <td>9h00 - 12h30</td> <!-- Vendredi matin -->
+                <td>9h00 - 12h30</td> <!-- Samedi matin -->
+                <td>9h00 - 12h30</td> <!-- Dimanche matin -->
+            </tr>
+            <tr>
+                <td>14h00 - 17h00</td> <!-- Lundi après-midi -->
+                <td>14h00 - 17h00</td> <!-- Mardi après-midi -->
+                <td>14h00 - 17h00</td> <!-- Mercredi après-midi -->
+                <td>14h00 - 17h00</td> <!-- Jeudi après-midi -->
+                <td>14h00 - 17h00</td> <!-- Vendredi après-midi -->
+                <td>14h00 - 17h00</td> <!-- Samedi après-midi -->
+                <td>14h00 - 16h00</td> <!-- Dimanche après-midi -->
+            </tr>
+        </table><br> <!-- Désolé pour le <br> je sais c'est pas bien :( -->
+
+        <!-- Contactez-nous -->
+        <form action="" method="post">
+            <fieldset>
+                <legend>Contactez-nous</legend>
+
+                <!-- Nom -->
+                <label for="name">Nom: </label>
+                <input type="text" name="name" id="name" placeholder="DOE John" required>
+                <label for="name" class="required">*</label>
+                <br> <!-- oulala... -->
+
+                <!-- E-Mail -->
+                <label for="mail">E-Mail: </label>
+                <input type="mail" name="mail" id="mail" placeholder="johndoe@gmail.com" required>
+                <label for="mail" class="required">*</label>
+                <br> <!-- la légende raconte qu'à chaque <br> utilisé, 1 développeur senior fait un avc -->
+
+                <!-- Téléphone -->
+                <label for="tel">Téléphone: </label>
+                <input type="tel" name="tel" id="tel" placeholder="01 23 45 67 89" required>
+                <label for="tel" class="required">*</label>
+                <br> <!-- oops ^^ -->
+
+                <!-- Message -->
+                <label for="msg">Message:</label>
+                <textarea name="msg" id="msg" rows="6" placeholder="oui allo bonjour" required></textarea>
+                <label for="msg" class="required">*</label>
+                <br><br> <!-- c'est limite illégal -->
+
+                <!-- Boutons ^^ >///< :3 -->
+                <button type="submit">Envoyer</button>
+                <button type="reset">Tout effacer</button>
+            </fieldset>
+        </form>
+
+        <!-- Enfin, les images !!!! -->
+        <div> <!-- première fois de ma vie que j'utilise un div -->
+            <h2>Des images!</h2>
+            <img src="assets/images/noir1.jpg" width="300px" alt="">
+            <img src="assets/images/noir2.jpg" width="300px" alt="">
+            <img src="assets/images/noir3.jpg" width="300px" alt="">
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy;2019 - <a target="_blank" href="https://www.guide-du-perigord.com/fr/tourisme/decouvrir/visite-du-perigord/le-perigord-noir.html">lien vers le guide</a></p>
+    </footer>
+</body>
+
+</html>

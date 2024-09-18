@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/styles.css"> <!-- Petit test perso -->
+
+    <title>TP 3 - Formulaire</title>
+</head>
+
+<body>
+    <h1>Formulaire !!!</h1>
+    
+    <form action="" method="post">
+        <fieldset>
+            <!-- Titre formulaire -->
+            <legend>Formulaire magique</legend>
+
+            <!-- Liste non ordonnée -->
+            <ul>
+                <!-- Genre -->
+                <li>                  
+                    <!-- Une seule définition de l'attribut "required" est nécessaire par groupe dans ce cas 
+                    (https://stackoverflow.com/questions/8287779/how-to-use-the-required-attribute-with-a-radio-input-field) -->
+                    <label for="genre_homme">Genre:</label>
+                    
+                    <input type="radio" name="genre" id="genre_homme" checked required>
+                    <label for="genre_homme">Homme</label>
+
+                    <input type="radio" name="genre" id="genre_femme">
+                    <label for="genre_femme">Femme</label>
+
+                    <input type="radio" name="genre" id="genre_unk">
+                    <label for="genre_unk">Autre</label>
+                    <label for="genre_unk" class="required">*</label>
+                </li><br>
+
+                <!-- Identité -->
+                <li>
+                    <!-- Nom -->
+                    <label for="nom">Nom:</label>
+                    <input type="text" name="nom" id="nom" required>
+                    <label for="nom" class="required">*</label>
+                    <br>
+
+                    <!-- Prénom -->
+                    <label for="prenom">Prénom:</label>
+                    <input type="text" name="prenom" id="prenom" required>
+                    <label for="nom" class="required">*</label>
+                    <br>
+
+                    <!-- Téléphone -->
+                    <label for="telephone">Tél:</label>
+                    <input type="tel" name="telephone" id="telephone" required>
+                    <label for="tel" class="required">*</label>
+                    <br>
+
+                    <!-- E-Mail -->
+                    <label for="mail">E-Mail:</label>
+                    <input type="email" name="mail" id="mail" required>
+                    <label for="mail" class="required">*</label>
+                </li><br>
+
+                <!-- Département -->
+                <li>
+                    <label for="departement">Département:</label>
+                    <select name="departement" id="departement" required>
+                        <option value="base" selected disabled>Choisir...</option>
+
+                        <option value="01">01: Ain</option>
+                        <option value="02">02: Aisne</option>
+                        <option value="03">03: Allier</option>
+                        <!-- ... -->
+                        <option value="94">94: Val-de-Marne</option>
+                        <option value="95">95: Val-D'Oise</option>
+                        <option value="2A">2A: Corse-du-Sud</option>
+                        <option value="2B">2B: Haute-Corse</option>
+                        <option value="971">971: Guadeloupe</option>
+                        <!-- ... -->
+                        <option value="976">976: Mayotte</option>
+                    </select>
+                    <label for="departement" class="required">*</label>
+                </li><br>
+
+                <!-- Message facultatif -->
+                <li>
+                    <label for="msg" class="msg">Message (facultatif):</label>
+                    <textarea name="msg" id="msg" rows="5"></textarea>
+                </li><br>
+            </ul><br>
+
+            <!-- Boutons -->
+            <button type="submit">Envoyer</button>
+            <button type="reset">Reset</button>
+        </fieldset>
+    </form>
+</body>
+
+</html>

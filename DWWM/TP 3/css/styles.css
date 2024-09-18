@@ -1,0 +1,4 @@
+/* Les étoiles pour les champs requis doivent être rouge. (j'ai décidé :3) */
+label.required {
+    color: red
+}

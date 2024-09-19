@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.7.14">
   <diagram name="Page-1" id="ItuPcejKKoLAVJ6YyNsb">
-    <mxGraphModel dx="4148" dy="2268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,6 +165,102 @@
         </mxCell>
         <mxCell id="ldyb5yx-wMgwqtrKaOPo-66" value="1337-gang/web-team" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="51" y="605" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Home&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-68" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="147" width="670" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-69" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="147.5" width="280" height="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-70" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="452" width="670" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-71" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="612" width="670" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-72" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="892" width="670" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-73" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="465" width="280" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-74" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-75" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="115" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-76" value="Filter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="110" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-77" value="Send feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="110" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-79" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="165.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-80" value="cpp-source-leaked&amp;nbsp; followed 69 users." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-81" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="574" y="189" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-82" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="630" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-84" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="630" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-85" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="235" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-86" value="STUTUTUTUTUTUT&amp;nbsp; toyota-supra mk4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="232" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-87" value="I love cars." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="252" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-88" value="1,425,898 repositories" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="275" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-89" value="-8 followers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="275" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-90" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-91" value="Unfollow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1103.75" y="230" width="52.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-93" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="325" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-94" value="AVERTISSEMENT DE BAVARDAGE&amp;nbsp; kalash-criminel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="322" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-95" value="Sauvagerie." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612" y="342" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-96" value="7 repositories" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="365" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-97" value="1,172,706 followers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="707" y="365" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-98" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-99" value="Follow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1103.75" y="320" width="52.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-100" value="Show all" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="549" y="399" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-101" value="1 picosecond ago" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="604" y="189" width="106" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

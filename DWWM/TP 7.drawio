@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.7.14">
   <diagram name="Page-1" id="ItuPcejKKoLAVJ6YyNsb">
-    <mxGraphModel dx="7187" dy="6058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4834" dy="4783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,6 +29,16 @@
         </mxCell>
         <mxCell id="ldyb5yx-wMgwqtrKaOPo-15" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="3140" y="-185" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldyb5yx-wMgwqtrKaOPo-17" target="ldyb5yx-wMgwqtrKaOPo-278">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3560" y="-560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3340" y="-410" />
+              <mxPoint x="3870" y="-410" />
+              <mxPoint x="3870" y="-2480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ldyb5yx-wMgwqtrKaOPo-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3320" y="-190" width="40" height="40" as="geometry" />
@@ -473,14 +483,6 @@
         <mxCell id="ldyb5yx-wMgwqtrKaOPo-182" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1870" y="-1610" width="380" height="1080" as="geometry" />
         </mxCell>
-        <mxCell id="ldyb5yx-wMgwqtrKaOPo-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldyb5yx-wMgwqtrKaOPo-183" target="ldyb5yx-wMgwqtrKaOPo-278">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3920" y="-1070" />
-              <mxPoint x="3920" y="-2480" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ldyb5yx-wMgwqtrKaOPo-183" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;glass=0;" vertex="1" parent="1">
           <mxGeometry x="2250" y="-1610" width="1260" height="1080" as="geometry" />
         </mxCell>
@@ -772,7 +774,7 @@
           <mxGeometry x="1540" y="-1120" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldyb5yx-wMgwqtrKaOPo-302" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Pull page&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="-2550" width="320" height="30" as="geometry" />
+          <mxGeometry x="3531" y="-2533" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldyb5yx-wMgwqtrKaOPo-307" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;" vertex="1" parent="1">
           <mxGeometry x="2167.5" y="-2860" width="1042.5" height="490" as="geometry" />
@@ -860,6 +862,18 @@
         </mxCell>
         <mxCell id="ldyb5yx-wMgwqtrKaOPo-339" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="2580" y="-2912.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-344" value="ProTip! Find everything you created by searching author:uwu-itadakimasu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2499.3900000000003" y="-2360" width="403.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-345" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="2476.88" y="-2356.56" width="23.13" height="23.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-346" value="(c) 2024 FakeGithub, Inc.&amp;nbsp;&amp;nbsp; Terms&amp;nbsp;&amp;nbsp; Privacy&amp;nbsp;&amp;nbsp; Security&amp;nbsp;&amp;nbsp; Status&amp;nbsp;&amp;nbsp; Docs&amp;nbsp;&amp;nbsp; Contact&amp;nbsp;&amp;nbsp; Manage cookies&amp;nbsp;&amp;nbsp; Do not share my personal information" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2357.52" y="-2230" width="720.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldyb5yx-wMgwqtrKaOPo-347" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="2324.39" y="-2226.57" width="23.13" height="23.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -7,3 +7,4 @@ Répertoire pour le dépôt des TPs de la formation Développeur web et web mobi
 - TP 3 : Formulaires HTML
 - TP 4 : Site multipage
 - TP 5 : Essai CSS
+- TP 6 : Responsive

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Création d'un compte</title>
+
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <header>
+        <!-- oulala on va pas mettre de nav hein -->
+    </header>
+
+    <main>
+        <div class="form">
+            <form action="" method="post">
+                <fieldset class="form">
+                    <legend>Création d'un compte</legend>
+    
+                    <label for="name">Nom <span class="required">*</span></label>
+                    <input type="text" name="name" id="name" required>
+
+                    <label for="fname">Prénom <span class="required">*</span></label>
+                    <input type="text" name="fname" id="fname" required>
+
+                    <label for="mail">Email <span class="required">*</span></label>
+                    <input type="email" name="mail" id="mail" required>
+
+                    <label for="pwd">Mot de passe <span class="required">*</span></label>
+                    <input type="password" name="pwd" id="pwd" required>
+
+                    <label for="cpwd">Confirmer le mot de passe <span class="required">*</span></label>
+                    <input type="password" name="cpwd" id="cpwd" required>
+
+                    <br> <!-- Exceptionnel..? >///< -->
+    
+                    <div class="formbtns">
+                        <button type="submit">Créer un compte</button>
+                        <button type="reset">Effacer les champs</button>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <!-- nope -->
+    </footer>
+</body>
+
+</html>

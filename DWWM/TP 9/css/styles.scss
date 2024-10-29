@@ -1,0 +1,39 @@
+@import "partials/vars";
+@import "partials/mixins";
+@import "partials/buttons";
+
+body {
+    header {
+        background-color: $primary-color;
+    }
+
+    main {
+        .container {
+            h1 {
+                font-size: 2rem;
+                text-transform: uppercase;
+            }
+    
+            p {
+                line-height: 1.6;
+            }
+        }
+
+        .box {
+            @include flex-center;
+        }
+
+        .card {
+            background-color: mix(#ffffff, $primary-color, 54%);
+            @include border-radius(10px);   
+        }
+
+        .btn {
+            @include dangerous-btn;
+        }
+    }
+
+    footer {
+        color: $secondary-color;
+    }
+}

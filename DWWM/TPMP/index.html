@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="js/script.js" defer></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> 
+</head>
+
+<body>
+    <div class="main">
+        <div class="header">
+            <h1>Galerie d'Images</h1>
+            <p>Cliquez sur une image pour l'agrandir.</p>
+        </div>
+    
+        <div class="gallery">
+            <img src="assets/img/1.jpg" alt="Image 1" class="gallery-img">
+            <img src="assets/img/2.jpg" alt="Image 2" class="gallery-img">
+            <img src="assets/img/3.gif" alt="Image 3" class="gallery-img">
+            <img src="assets/img/4.jpg" alt="Image 4" class="gallery-img">
+            <img src="assets/img/5.jpg" alt="Image 5" class="gallery-img">
+        </div>
+    </div>
+
+    <!-- Lightbox -->
+    <div id="lightbox" class="lightbox">
+        <span id="closeLightbox" class="close">&times;</span>
+        <img class="lightbox-content" id="lightboxImg" src="assets/img/1.jpg">
+        <div class="controls">
+            <span id="prev" class="prev">&#10094;</span>
+            <span id="next" class="next">&#10095;</span>
+        </div>
+    </div>
+</body>
+
+</html>

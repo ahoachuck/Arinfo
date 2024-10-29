@@ -1,0 +1,4 @@
+@mixin dangerous-btn {
+    @include border-radius(5px);
+    border-color: darken(#ff0000, 20%);
+}

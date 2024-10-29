@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.magic {
+    color:blueviolet;
+}
+
+.container {
+    display: flex;
+    gap: 4vw;
+    padding: 2vw 2vh 2vh 2vw;
+}

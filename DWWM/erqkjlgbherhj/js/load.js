@@ -1,0 +1,1 @@
+const wnd = window.open('app.html', '', 'popup,width=800,height=600');

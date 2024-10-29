@@ -1,0 +1,14 @@
+@mixin bg-img($path) {
+    background-image: url($path);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+@mixin hide-navlist {
+    nav {
+        ul {
+            display: none;
+        }
+    }
+}

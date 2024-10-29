@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #AD2E1F;
+}
+
+.calculatrice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px; /* Ajuste selon ta préférence */
+    background-color: #333; /* Ajoute un fond pour la calculatrice */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.ecran {
+    width: 100%;
+    background-color: gray;
+    color: white;
+    font-size: 2em;
+    padding: 20px;
+    text-align: right;
+    margin-bottom: 20px; /* Espace entre l'écran et les boutons */
+    border-radius: 5px;
+}
+
+
+.calculatrice .buttons{
+    background-color: #AD2E1F;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.calculatrice .buttons button{
+    padding: 20px;
+    background-color: #ad871f;
+    font-size: 1.5em;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+

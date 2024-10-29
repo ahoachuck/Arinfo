@@ -1,0 +1,26 @@
+body header {
+  background-color: #3498db;
+}
+body main .container h1 {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+body main .container p {
+  line-height: 1.6;
+}
+body main .box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body main .card {
+  background-color: #a2d0ee;
+  border-radius: 10px;
+}
+body main .btn {
+  border-radius: 5px;
+  border-color: #990000;
+}
+body footer {
+  color: #2ecc71;
+}/*# sourceMappingURL=styles.css.map */
